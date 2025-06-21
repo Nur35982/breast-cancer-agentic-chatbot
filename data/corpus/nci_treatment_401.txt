@@ -1,0 +1,12 @@
+HER2-targeted therapy.
+CDK4/6 inhibitors.
+mTOR inhibitors.
+PIK3CA inhibitors.
+Chemotherapy.
+Immunotherapy.
+Surgery for patients with limited symptomatic metastases.
+Radiation therapy for patients with limited symptomatic metastases.
+Bone-modifying therapy for patients with bone metastases.
+In many cases, these therapies are given in sequence and used in various combinations.
+Cytological or histological documentation of metastatic disease, with testing of ER, progesterone receptor, and HER2 statuses, should be obtained at the time of metastatic presentation, if possible.
+If not possible, it is appropriate to consider liquid biopsy (via circulating tumor cell and/or circulating tumor DNA testing).

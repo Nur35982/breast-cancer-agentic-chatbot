@@ -1,0 +1,5 @@
+Patients were randomly assigned in a 1:1 ratio to receive either abemaciclib plus fulvestrant or fulvestrant alone.
+Eligible patients had (1) disease progression during initial therapy for metastatic breast cancer, which included a CDK4/6 inhibitor and aromatase inhibitor (99% of patients), or (2) disease relapse during or after adjuvant therapy for early breast cancer with a CDK4/6 inhibitor plus endocrine therapy.
+The CDK inhibitor was palbociclib in 59% of patients, ribociclib in 33% of patients, and abemaciclib in 8% of patients.
+No other prior treatment was permitted for metastatic disease.
+The primary end point was investigator-assessed PFS.[25]The 6-month PFS rate was 50% in the abemaciclib-plus-fulvestrant group and 37% in the fulvestrant-alone group (HR, 0.73; 95% CI, 0.57–0.95).[25][Level of evidence B1]Overall response rate, a secondary end point, was 17% in the abemaciclib-plus-fulvestrant group and 7% in the fulvestrant-alone group.

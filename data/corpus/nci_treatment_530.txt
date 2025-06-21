@@ -1,0 +1,5 @@
+One patient died of pneumonia that was assessed by the investigator to be treatment related.
+TheTAPURstudy (NCT02693535) was a phase II basket trial done to identify the efficacy of commercially available targeted agents in patients with advanced cancers and genomic alterations known to be drug targets.
+TAPUR results from patients with metastatic breast cancer and high TMB have been reported.
+The primary end point was disease control (objective response or stable disease for ≥16 weeks).[91][Level of evidence C3]The study enrolled 28 patients with metastatic breast cancer and high TMB.
+TMB ranged from 9 to 37 Mut/Mb.Disease control was noted in 37% of patients, with objective response noted in 21% of patients.The median PFS was 10.6 weeks and the median OS was 30.6 weeks.

@@ -1,0 +1,5 @@
+In general, in the absence of a visceral crisis, most patients receive sequential endocrine-based regimens before transitioning to chemotherapy.
+On the basis of the PFS and OS improvements mentioned above, a combination of a CDK4/6 inhibitor therapy and endocrine therapy in the first line is an appropriate choice.
+Patients with hormone receptor-positive metastatic breast cancer and a germlineBRCAvariant are eligible for PARP inhibitor therapy.
+For more information, see theGermlineBRCA-Mutated Metastatic Breast Cancersection.
+Sacituzumab govitecan is an antibody-drug conjugate that combines an anti–trophoblast cell-surface antigen 2 (TROP2) antibody with an active metabolite of irinotecan (SN-38).

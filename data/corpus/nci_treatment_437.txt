@@ -1,0 +1,5 @@
+Overactivation of thePIK3CA/AKT/PTENsignaling pathway occurs in approximately one-half of HER2-negative hormone receptor–positive breast cancers.
+ActivatingPIK3CAandAKT1variants and inactivating alterations inPTENcan cause this overactivation.
+Capivasertib is an oral small-molecule inhibitor of all three AKT isoforms (AKT1, AKT2, and AKT3).
+Evidence (capivasertib): The phase III, randomized, double-blindCAPITELLO-291trial (NCT04305496) enrolled women and men with HER2-negative ER-positive advanced breast cancer.
+Patients had disease relapse or progression during or after treatment with an aromatase inhibitor, with or without previous CDK4/6 inhibitor therapy.

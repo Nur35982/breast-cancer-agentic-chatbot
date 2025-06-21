@@ -1,0 +1,3 @@
+The group receiving AC-trastuzumab showed a small but not statistically significant benefit over TCH.This trial supports the use of TCH as an alternative adjuvant regimen for women with early-stage HER2-overexpressing breast cancer, particularly in those with concerns about cardiac toxic effects.
+A significant DFS and OS benefit was seen in both groups treated with trastuzumab compared with the control group that did not receive trastuzumab.
+For patients receiving AC-T plus trastuzumab, the 5-year DFS rate was 84% (HR for the comparison with AC-T, 0.64;P< .001), and the OS rate was 92% (HR, 0.63;P< .001).

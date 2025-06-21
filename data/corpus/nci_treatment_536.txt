@@ -1,0 +1,4 @@
+Presence of toxicities from previous therapies.
+Availability of alternative treatment options.
+The optimal time for patients with responsive or stable disease has been studied by several groups.
+For patients who attain a complete response to initial therapy, two randomized trials have shown a prolonged DFS after immediate treatment with a different chemotherapy regimen compared with observation and treatment upon relapse.[127,128][Level of evidence A1] Neither of these studies, however, showed an improvement in OS for patients who received immediate treatment; in one of these studies,[128] survival was actually worse in the group that was treated immediately.

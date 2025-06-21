@@ -1,0 +1,4 @@
+Median OS data are not mature.
+Key grade 3 or higher treatment-related adverse events were neutropenia (occurring in 51% of patients who received sacituzumab govitecan and 38% of patients who received chemotherapy) and diarrhea (occurring in 9% of patients who received sacituzumab govitecan and 1% of patients who received chemotherapy).
+One patient in the sacituzumab govitecan group died of a treatment-related adverse event (septic shock related to neutropenic colitis).
+The objective response rate by blinded independent central review was 21% in the sacituzumab govitecan group and 14% in the chemotherapy group.

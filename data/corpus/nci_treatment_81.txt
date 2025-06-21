@@ -1,0 +1,4 @@
+The axillary lymph nodes are staged to aid in determining prognosis and therapy.
+Sentinel lymph node (SLN) biopsy is the initial standard axillary staging procedure performed in women with invasive breast cancer.
+The SLN is defined as any node that receives drainage directly from the primary tumor, allowing for more than one SLN, which is often the case.
+Studies have shown that the injection of technetium Tc 99m-labeled sulfur colloid, vital blue dye, or both around the tumor or biopsy cavity, or in the subareolar area, and subsequent drainage of these compounds to the axilla results in the identification of the SLN in 92% to 98% of patients.[23,24] These reports demonstrate a 97.5% to 100% concordance between SLN biopsy and complete axillary lymph node dissection (ALND).

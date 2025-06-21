@@ -1,0 +1,4 @@
+A protocol-specified final analysis of OS was published after 400 deaths and a median follow-up of 6.6 years.
+Patients who received ribociclib plus letrozole had a significant OS benefit compared with patients who received placebo plus letrozole.
+Median OS was 63.9 months in the ribociclib group and 51.4 months in the placebo group (HRdeath, 0.76; 95% CI, 0.63–0.93; two-sidedP= .008).[14][Level of evidence A1] Grade 3 to 4 neutropenia occurred in 63.8% of patients in the ribociclib group and 1.2% of patients in the placebo group.
+Grade 1 to 2 nausea, infection, fatigue, and diarrhea were also noted.

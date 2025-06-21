@@ -1,0 +1,3 @@
+The primary aim was to determine if TC (the non-anthracycline arm) was noninferior to the TaxAC arms.
+Inferiority for TC was predefined as an HR exceeding 1.18 for the TC versus TaxAC arms.
+Participants were randomly assigned to receive TC (n = 2, 125) or TaxAC (n = 2,127).In an interim futility analysis, the HR for IDFS was 1.202 (95% CI, 0.97–1.49) for TC versus TaxAC, which exceeded the predetermined limit to define TC as inferior.The 4-year IDFS rate was 88.2% for patients who received TC and 90.7% for patients who received TaxAC (P= .04).Although the findings favored treatment with regimens containing an anthracycline/cyclophosphamide plus a taxane, absolute differences between TC and TaxAC were small.

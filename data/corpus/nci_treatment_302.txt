@@ -1,0 +1,5 @@
+A highly statistically significant improvement in DFS (3-year DFS rate, 87% vs.
+75%; HR, 0.48;P< .001) was observed, as was a significant improvement in OS (3-year OS rate, 94.3% in the trastuzumab group vs.
+91.7% in the control group; 4-year OS rate, 91.4% in the trastuzumab group vs.
+86.6% in the control group; HR, 0.67;P= .015).[130]Patients treated with trastuzumab experienced a longer DFS, with a 52% lower risk of a DFS event (HR, 0.48; 95% CI, 0.39–0.59;P< .001), corresponding to an absolute difference in DFS of 11.8% at 3 years and 18% at 4 years.
+The risk of distant recurrence in patients treated with trastuzumab was 53% lower (HR, 0.47; 95% CI, 0.37–0.61;P< .001), and the risk of death was 33% lower (HR, 0.67; 95% CI, 0.48–0.93;P= .015).[130]In an updated analysis with a median follow-up of 8.4 years, the addition of trastuzumab to chemotherapy led to a 37% relative improvement in OS (HR, 0.63; 95% CI, 0.54–0.73;P< .001) and an increase in the 10-year OS rate from 75.2% to 84%.[132] The HERA results were confirmed in a joint analysis of the two studies, with a combined enrollment of 3,676 patients.

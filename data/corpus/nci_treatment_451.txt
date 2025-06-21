@@ -1,0 +1,5 @@
+Adverse events led to treatment discontinuation in 15 patients (6.3%) in the elacestrant arm and 10 patients (4.4%) in the standard-of-care arm.
+Epigenetic modification alters gene expression.
+This can lead to endocrine therapy resistance and may be reversed by epigenetic modifiers such as histone deacetylase (HDAC) inhibitors.
+Entinostat, an oral HDAC inhibitor, induces downregulation of estrogen-independent growth factor signaling pathways and normalization of estrogen receptor levels.
+Entinostat was evaluated in a phase III trial and showed no benefit.[35,36] With the PFS and OS advantages associated with combination therapy with targeted agents and endocrine therapy as discussed above, single-agent endocrine therapy is less frequently used, especially in the first-line setting.

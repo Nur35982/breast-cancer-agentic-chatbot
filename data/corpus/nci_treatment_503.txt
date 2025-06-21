@@ -1,0 +1,4 @@
+This drug has demonstrated antitumor activity in patients with advanced HER2-positive breast cancer.
+Evidence (trastuzumab deruxtecan): A phase III, multicenter, open-label, randomized trial (DESTINY-Breast03[NCT03529110]) compared the efficacy and safety of trastuzumab deruxtecan with trastuzumab emtansine.
+The study included 524 patients with HER2-positive metastatic breast cancer previously treated with a taxane and trastuzumab.
+PFS was the primary end point.[79]At 12 months, 75.8% of patients who received trastuzumab deruxtecan were alive without disease progression, compared with 34.1% of patients who received trastuzumab emtansine (HR, 0.28; 95% CI, 0.22–0.37;P< .001).Secondary end points were OS, overall response rate, and safety.

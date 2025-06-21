@@ -1,0 +1,4 @@
+Concurrent FEC plus trastuzumab plus pertuzumab (×3) followed by concurrent docetaxel plus trastuzumab plus pertuzumab.
+FEC alone (×3) followed by concurrent docetaxel plus trastuzumab plus pertuzumab (×3).
+Concurrent docetaxel and carboplatin plus trastuzumab plus pertuzumab (×6).
+The following results were observed: The pCR rate was equivalent across all three treatment arms: (62% for concurrent FEC plus trastuzumab plus pertuzumab followed by concurrent docetaxel plus trastuzumab plus pertuzumab; 57% for FEC alone followed by concurrent docetaxel plus trastuzumab plus pertuzumab; and 66% for concurrent docetaxel and carboplatin plus trastuzumab plus pertuzumab).

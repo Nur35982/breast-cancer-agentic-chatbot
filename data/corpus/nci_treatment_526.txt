@@ -1,0 +1,6 @@
+Median OS did not differ between the two groups (22.3 months vs.
+19.5 months; HRdeath, 0.76; 95% CI, 0.55–1.06;P= .11), although survival data are not yet mature.
+The primary toxicity observed with talazoparib was myelosuppression, especially anemia.
+Patient-reported outcome data demonstrated more favorable effects of talazoparib than standard chemotherapy on quality-of-life measures.[88] For more information, seeGenetics of Breast and Gynecologic Cancers.
+An established biomarker for checkpoint inhibitor immunotherapy is high somatic tumor mutational burden (TMB).
+TMB is the number of mutations within the coding region of a tumor genome and is reported as mutations per megabase (Mut/Mb).

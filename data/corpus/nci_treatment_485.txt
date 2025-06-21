@@ -1,0 +1,5 @@
+A response rate of 33.3% (95% CI, 24.6%–43.1%) was observed.
+The median duration of response was 7.7 months (95% CI, 4.9–10.8).
+The main toxicity was neutropenia, and four deaths occurred during treatment.[61][Level of evidence C3] The FDA granted accelerated approval to sacituzumab govitecan for patients with metastatic TNBC after at least two previous lines of therapy.
+A phase III randomized trial (ASCENT[NCT02574455]) confirmed the efficacy of sacituzumab govitecan in patients with metastatic TNBC that was relapsed or refractory to two or more previous chemotherapy regimens.
+The trial randomly assigned 468 women without brain metastases to receive either sacituzumab govitecan or the physician's choice of single-agent chemotherapy (eribulin, vinorelbine, capecitabine, or gemcitabine).

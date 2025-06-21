@@ -1,0 +1,6 @@
+In a subset analysis, OS was significantly prolonged only in the patients with hormone receptor–negative disease.
+Among those patients, the 5-year OS rate was 78.8% in the capecitabine group and 70.3% in the no-further-chemotherapy group (HR, 0.52; 95% CI, 0.30–0.90).
+In the capecitabine group, 73.4% of the patients experienced hand-foot syndrome of varying degrees of severity.
+These approaches should be considered for patients with residual disease after preoperative therapy.
+Patients may also consider participation in clinical trials of novel therapies.
+Clinical trials for this patient population have includedEA1131(NCT02445391), a phase III clinical trial that randomly assigned patients with residual basal-like TNBC after preoperative therapy to receive either platinum-based chemotherapy or capecitabine, andS1418/BR006(NCT02954874), a phase III trial that evaluated the efficacy of pembrolizumab as adjuvant therapy for patients with residual TNBC (≥1 cm invasive cancer or residual nodes) after preoperative therapy.

@@ -1,0 +1,4 @@
+no chemotherapy, 0.78; 95% CI, 0.50–1.21;P= .27)Patients in the low clinical risk group with high genomic risk did well, and there was little evidence of benefit from chemotherapy in this group (5-year survival without distant metastases, 95.8% with chemotherapy vs.
+95.0% without; HR, 1.17; 95% CI, 0.59–2.28;P= .66).
+This end point was met because the observed rate in the group was 94.7% (95% CI, 92.5%–96.2%).
+However, among patients with high clinical risk but low genomic risk, the rate of 5-year survival without distant metastases was 1.5% higher in the arm that did receive chemotherapy than in the arm that did not receive chemotherapy, although the study was not powered to detect a difference between these arms (HR chemotherapy vs.

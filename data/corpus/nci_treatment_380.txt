@@ -1,0 +1,6 @@
+Notably, the cumulative risk of endometrial cancer during years 5 to 14 from breast cancer diagnosis was 3.1% for women who received 10 years of tamoxifen versus 1.6% for women who received 5 years of tamoxifen.
+The mortality rate for years 5 to 14 was 12.2% for women who received 10 years of tamoxifen versus 15% for women who received 5 years of tamoxifen, for an absolute mortality reduction of 2.8%.
+Pulmonary embolus: relative risk (RR), 1.87 (95% CI, 1.13–3.07;P= .01).
+Stroke: RR, 1.06 (95% CI, 0.83–1.36).
+Ischemic heart disease: RR, 0.76 (95% CI, 0.6–0.95;P= .02).
+Endometrial cancer: RR, 1.74 (95% CI, 1.30–2.34;P= .0002).

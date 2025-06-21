@@ -1,0 +1,4 @@
+At median follow-up of 20.2 months, median PFS was 7.0 months in the everolimus group versus 5.78 months in the placebo group (HR, 0.78; 95% CI, 0.65–0.95;P= .0067).
+Serious adverse events were reported in 117 patients (42%) in the everolimus group and 55 patients (20%) in the placebo group.
+Final OS outcomes for this trial have not yet been reported.
+For patients with metastatic breast cancer who carry germlineBRCA1orBRCA2pathogenic variants, oral PARP inhibitors have shown activity.BRCA1andBRCA2are tumor suppressor genes that encode proteins involved in DNA repair (via the homologous recombination repair pathway).

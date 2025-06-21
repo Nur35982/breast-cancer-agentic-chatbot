@@ -1,0 +1,4 @@
+TMB is high (≥10) in approximately 5% of breast cancers.[89] Highest median TMB is noted in triple-negative tumors and lowest median TMB is noted in ER-positive/HER2-negative patients.
+Evidence (pembrolizumab): The FDA approved pembrolizumab for the treatment of metastatic solid tumors with a TMB of at least 10 Mut/Mb, based on the KEYNOTE-158 trial.[90]KEYNOTE-158(NCT02628067) was a multicohort, open-label, nonrandomized, phase II multinational study.
+Patients had metastatic solid malignancies, treated with at least one previous line of therapy.
+Participants received pembrolizumab 200 mg intravenously every 3 weeks for up to 35 cycles.

@@ -1,0 +1,6 @@
+There are four RCB classes ranging from RCB-0 to RCB-3.
+Determining RCB after neoadjuvant treatment has been validated as a prognostic predictor in early breast cancer.
+A pooled, multinational, multi-institutional analysis was performed, using participant-level RCB results and clinicopathological data.
+Data from 5,161 patients were analyzed to assess the association between the continuous RCB score and the primary study outcome, EFS.
+With a median follow-up of 56 months, the RCB score was prognostic within each breast cancer subtype, with a higher RCB score significantly associated with worse EFS.
+RCB score was prognostic for EFS in multivariable models adjusted for age, grade, T (tumor) category, and nodal status at baseline.

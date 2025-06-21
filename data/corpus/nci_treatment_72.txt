@@ -1,0 +1,4 @@
+It uses TNM information based on the patient’s history, physical examination, imaging results (not required for clinical staging), and biopsies.
+The Pathological Prognostic Stage applies to patients with invasive breast cancer initially treated with surgery.
+It includes all information used for clinical staging, surgical findings, and pathological findings following surgery to remove the tumor.
+Pathological Prognostic Stage is not used for patients treated with neoadjuvant therapy before surgery to remove the tumor.[3] Barnes DM, Harris WH, Smith P, et al.: Immunohistochemical determination of oestrogen receptor: comparison of different methods of assessment of staining and correlation with clinical outcome of breast cancer patients.

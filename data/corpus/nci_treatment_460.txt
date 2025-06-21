@@ -1,0 +1,4 @@
+Patients had received three median lines of chemotherapy for advanced disease, and 99% of patients had previously received a CDK4/6 inhibitor.
+The primary end point was PFS by blinded independent central review.[52][Level of evidence B1]An analysis noted a 34% reduction in the risk of progression or death (HR, 0.66; 95% CI, 0.53–0.83;P= .0003).
+The median PFS was 5.5 months in the sacituzumab govitecan group and 4.0 months in the chemotherapy group.
+The PFS at 6 and 12 months was 46% and 21% for patients who received sacituzumab govitecan and 30% and 7% for patients who received chemotherapy.Median OS data are not mature.Key grade 3 or higher treatment-related adverse events were neutropenia (occurring in 51% of patients who received sacituzumab govitecan and 38% of patients who received chemotherapy) and diarrhea (occurring in 9% of patients who received sacituzumab govitecan and 1% of patients who received chemotherapy).

@@ -1,0 +1,5 @@
+Women presenting with metastatic breast cancer and an intact primary tumor received systemic therapy for 4 to 8 months.
+If disease progression did not occur, patients were randomly assigned to receive locoregional therapy for the primary site (surgery and radiation therapy, per standards for nonmetastatic disease) or to continue systemic therapy.
+Of the 256 randomly assigned patients, 125 received early locoregional therapy.
+The primary end point was OS.[147] The 3-year OS was 67.9% in the systemic therapy group and 68.4% in the locoregional therapy group (HR, 1.11; 90% CI, 0.82–1.52;P= .57).
+The median OS was 53.1 months (95% CI, 47.9–not estimable) in the systemic therapy group and 54.9 months (95% CI, 46.7–not estimable) in the locoregional therapy group.

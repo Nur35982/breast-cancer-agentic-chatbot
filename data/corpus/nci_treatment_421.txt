@@ -1,0 +1,4 @@
+The final PFS analysis showed a median PFS of 9.5 months on the palbociclib-fulvestrant arm versus 4.6 months on the placebo-fulvestrant arm (HR, 0.46; 95% CI, 0.36–0.59;P< .0001).[21][Level of evidence A3] Cytopenias, particularly neutropenia, were much more frequent on the palbociclib-containing arm, but febrile neutropenia was very uncommon (1%) in both groups.
+Patients receiving palbociclib had more-frequent fatigue, nausea, and headache.
+A prespecified analysis of OS was made after 310 patients had died.
+A 6.9 month difference in median OS favoring the palbociclib-fulvestrant arm (34.9 months vs.

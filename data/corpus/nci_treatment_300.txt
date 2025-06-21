@@ -1,0 +1,5 @@
+Observation (n = 1,693).
+1 year of trastuzumab (n = 1,694).
+2 years of trastuzumab (n = 1,694).
+Of the patients in the group comparing 1 year of trastuzumab versus observation, the median age was 49 years, about 33% had node-negative disease, and nearly 50% had hormone receptor–negative disease.[129] The following results were observed for patients assigned to 1 year of trastuzumab versus patients assigned to observation: After a median follow-up of 11 years,[129] 1 year of trastuzumab improved DFS (10-year DFS rate, 72% vs.
+66%; HR, 0.76; 95% CI, 0.68–0.86;P< .0001), despite a crossover of 52% of the patients on observation.

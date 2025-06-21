@@ -1,0 +1,5 @@
+At 12 months, 75.8% of patients who received trastuzumab deruxtecan were alive without disease progression, compared with 34.1% of patients who received trastuzumab emtansine (HR, 0.28; 95% CI, 0.22–0.37;P< .001).
+Secondary end points were OS, overall response rate, and safety.
+A total of 94.1% of patients who received trastuzumab deruxtecan were alive at 12 months, compared with 85.9% of patients who received trastuzumab emtansine (HRdeath, 0.55; 95% CI, 0.36–0.86).
+The overall response rate was 79.7% versus 34.2%, favoring trastuzumab deruxtecan.
+Grade 3 to 4 drug-related adverse events occurred in 45.1% of patients who received trastuzumab deruxtecan and 38.9% of patients who received trastuzumab emtansine.

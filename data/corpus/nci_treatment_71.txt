@@ -1,0 +1,4 @@
+(SeeTable 9.) Pathological Prognostic Stage Group.The Pathological Prognostic Stage Group table is used for all patients in the United States who have surgery as initial treatment and have pathological T and N information reported.
+(SeeTable 10.) In the United States, cancer registries and clinicians must use the Clinical and Pathological Prognostic Stage Group tables for reporting.
+It is expected that testing is performed for grade, HER2, ER, and PR status and that results are reported for all cases of invasive cancer in the United States.
+AJCC Anatomical Stage Groups AJCC Prognostic Stage Groups The Clinical Prognostic Stage is used for clinical classification and staging of patients in the United States with invasive breast cancer.

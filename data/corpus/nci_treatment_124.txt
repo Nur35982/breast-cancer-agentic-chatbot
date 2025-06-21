@@ -1,0 +1,4 @@
+The APBI arm had improved cosmetic outcomes as evaluated by both physicians and patients (P= .0001 for both comparisons).
+Regional nodal irradiation is routinely given postmastectomy to patients with involved lymph nodes; however, its role in patients who have breast-conserving surgery and whole-breast radiation therapy has been less clear.
+A randomized trial (NCT00005957) of 1,832 women showed that administering regional nodal irradiation after breast-conserving surgery and whole-breast radiation therapy reduced the risk of recurrence (10-year disease-free survival [DFS] rate, 82.0% vs.
+77.0%; HR, 0.76; 95% CI, 0.61–0.94;P= .01) but did not affect survival (10-year OS rate, 82.8% vs.

@@ -1,0 +1,5 @@
+Based on the PFS data, the FDA approved pembrolizumab and chemotherapy for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10).
+At time of final analysis, the median follow-up was 44.1 months.
+In the group with a CPS of at least 10, the median OS was 23 months in the pembrolizumab-and-chemotherapy group and 16.1 months in the placebo-and-chemotherapy group (HR, 0.73; 95% CI, 0.55–0.95; two-sidedP= .0185 [significant]).
+In the group with a CPS of at least 1, the median survival was not significantly altered (17.6 vs.
+16 months;P= .1125).

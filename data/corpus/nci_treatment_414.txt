@@ -1,0 +1,5 @@
+Sixty-millisecond increases were more common in patients receiving tamoxifen (16% on ribociclib and 7% on placebo).
+The primary end point (investigator-assessed PFS) was met.
+At the time of final analysis for PFS, the median PFS for the ribociclib group was 23.8 months versus 13.0 months in the placebo group (HR, 0.55; 95% CI, 0.44–0.69;P< .0001).[17][Level of evidence A3] OS was a secondary end point.
+The combination of ribociclib plus endocrine therapy was associated with longer OS than was endocrine therapy alone (42-month OS, 70.2% vs.
+46%; HRdeath, 0.71; 95% CI, 0.54−0.95;P= .01).[18][Level of evidence A1] The survival benefit was observed both in patients who received an AI plus goserelin and in those who received tamoxifen, but it was not statistically significant in the much-smaller tamoxifen group.

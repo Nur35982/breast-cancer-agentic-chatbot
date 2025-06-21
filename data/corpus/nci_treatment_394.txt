@@ -1,0 +1,5 @@
+In ER-negative patients, the HR for DFS for chemotherapy versus no chemotherapy was 0.29 (95% confidence interval [CI], 0.13–0.67; 10-year DFS, 70% vs.
+34%), whereas in ER-positive patients, the HR was 1.07 (95% CI, 0.57–2.00; 10-year DFS, 50% vs.
+59%).
+The interaction between chemotherapy and ER status with respect to DFS was significant (P= .013).[12] This trial supports consideration of adjuvant chemotherapy after complete resection of isolated locoregional recurrence of breast cancer in patients with ER-negative tumors.
+All patients with recurrent breast cancer are considered candidates for ongoing clinical trials.

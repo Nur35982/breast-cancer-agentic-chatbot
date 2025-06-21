@@ -1,0 +1,5 @@
+Grade 3 to 5 treatment-related adverse events occurred in 68.1% of patients in the pembrolizumab group and 66.9% of patients in the placebo group.
+Two deaths occurred in the pembrolizumab group (acute kidney injury and pneumonia).
+There were no deaths in the placebo group.
+Grade 3 to 4 immune-mediated adverse events occurred in 5.3% of patients in the pembrolizumab group, none of which led to death.
+The addition of atezolizumab, a PD-L1–positive antibody, to first-line chemotherapy for patients with HER2-negative hormone receptor–negative, advanced breast cancer was evaluated in the phase III, randomized, placebo-controlledIMpassion130trial (NCT02425891).[58,59] Participants (N = 902) were randomly assigned 1:1 to atezolizumab plus nanoparticle albumin-bound (nab)-paclitaxel or to placebo plus nab-paclitaxel.

@@ -1,0 +1,6 @@
+TMB was assessed in formalin-fixed paraffin-embedded tumor samples using the FoundationOne CDx assay.
+A total of 105 of 805 evaluable patients had high TMB (≥10 Mut/Mb).The primary outcome was objective response rate.
+Objective responses were observed in 30 of 102 patients (29%) in the TMB-high group and 43 of 688 patients (6%) in the non-TMB-high group.
+Grade 3 to 5 treatment-related adverse events occurred in 16 patients.
+One patient died of pneumonia that was assessed by the investigator to be treatment related.
+KEYNOTE-158(NCT02628067) was a multicohort, open-label, nonrandomized, phase II multinational study.

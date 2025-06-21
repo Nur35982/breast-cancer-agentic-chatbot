@@ -1,0 +1,5 @@
+The study was closed early because of poor accrual.
+The original sample size for a hazard ratio (HR) of 0.74 was 977 patients (347 DFS events) and was revised subsequently to 265 patients (HR, 0.6; 124 DFS events), with only 162 enrolled at the time of study closure.[11][Level of evidence B1]In ER-negative patients, the HR for DFS for chemotherapy versus no chemotherapy was 0.29 (95% confidence interval [CI], 0.13–0.67; 10-year DFS, 70% vs.
+34%), whereas in ER-positive patients, the HR was 1.07 (95% CI, 0.57–2.00; 10-year DFS, 50% vs.
+59%).
+The interaction between chemotherapy and ER status with respect to DFS was significant (P= .013).[12]This trial supports consideration of adjuvant chemotherapy after complete resection of isolated locoregional recurrence of breast cancer in patients with ER-negative tumors.

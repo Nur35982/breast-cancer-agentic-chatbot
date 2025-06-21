@@ -1,0 +1,6 @@
+Information about ongoing clinical trials is available from theNCI website.
+One completed trial showed no benefit to adding atezolizumab to postoperative chemotherapy.
+Evidence (postoperative atezolizumab): In theALEXANDRA/IMpassion030trial (NCT03498716), 2,199 women who had not received preoperative systemic therapy were randomly assigned postoperatively to receive chemotherapy with or without atezolizumab.
+The chemotherapy regimen included paclitaxel and cyclophosphamide with doxorubicin or epirubicin.
+The primary end point was IDFS.
+Trial accrual was prematurely terminated by the data safety monitoring committee for futility.[111]The final analysis demonstrated no benefit in IDFS with the addition of atezolizumab (HR, 1.11; 95% CI, 0.87–1.42;P= .38).[111][Level of evidence B1] The final analysis demonstrated no benefit in IDFS with the addition of atezolizumab (HR, 1.11; 95% CI, 0.87–1.42;P= .38).[111][Level of evidence B1] Patients with HER2-positive breast cancer who are also hormone receptor–positive receive hormone therapy as described in theStages I, II, and III HER2-Negative Hormone Receptor–Positive Breast Cancersection.

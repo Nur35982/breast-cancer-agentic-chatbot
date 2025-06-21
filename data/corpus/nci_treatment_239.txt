@@ -1,0 +1,5 @@
+DFS events were similar in both groups (HR, 0.92; 95% CI, 0.74–1.16).
+The distant metastasis-free interval was also similar (HR, 1.06; 95% CI, 0.78–1.45).
+A subgroup analysis did not identify patients who benefited from 5-year extended therapy.
+This study did not show that 10 years of AI therapy was superior to 7.5 years of AI therapy.
+A phase III trial (NSABP-B42[NCT00382070]) randomly assigned, in a double-blind fashion, 3,966 women who received 5 years of initial adjuvant therapy with an AI or received tamoxifen for 2 to 3 years followed by an AI to receive 5 mg of letrozole or placebo for 5 additional years.[83][Level of evidence B1] The planned analysis of DFS was carried out after a median follow-up of 6.9 years.The 7-year DFS rate was 81.3% in the placebo group and 84.7% in the letrozole group (HR, 0.85; 95% CI, 0.73–0.999;P= .048).

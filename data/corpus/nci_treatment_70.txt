@@ -1,0 +1,3 @@
+There are three stage group tables for invasive cancer:[3] Anatomical Stage Group.The Anatomical Stage Group table is used in regions of the world where tumor grading and/or biomarker testing for ER, PR, and HER2 are not routinely available.
+(SeeTable 8.) Clinical Prognostic Stage Group.The Clinical Prognostic Stage Group table is used for all patients in the United States.
+Patients who have neoadjuvant therapy as their initial treatment should have the clinical prognostic stage and the observed degree of response to treatment recorded, but these patients are not assigned a pathological prognostic stage.

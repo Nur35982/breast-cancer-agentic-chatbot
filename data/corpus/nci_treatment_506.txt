@@ -1,0 +1,3 @@
+Interstitial lung disease and pneumonitis occurred in 10.5% of patients who received trastuzumab deruxtecan and 1.9% of patients who received trastuzumab emtansine; none of these events were grade 4 to 5.
+This trial led to a change in the standard of care for patients with HER2-positive metastatic breast cancer, such that patients with prior taxane/trastuzumab therapy proceed to trastuzumab deruxtecan, rather than trastuzumab emtansine, for second-line therapy.
+Margetuximab is an Fc-engineered anti-HER2 immunoglobulin G monoclonal antibody that targets the same epitope as trastuzumab, with similar antiproliferative effects.

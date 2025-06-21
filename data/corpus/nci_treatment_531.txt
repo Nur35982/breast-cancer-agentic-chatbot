@@ -1,0 +1,7 @@
+The study enrolled 28 patients with metastatic breast cancer and high TMB.
+TMB ranged from 9 to 37 Mut/Mb.
+Disease control was noted in 37% of patients, with objective response noted in 21% of patients.
+The median PFS was 10.6 weeks and the median OS was 30.6 weeks.
+Patients receiving hormone therapy whose tumors have progressed are candidates for cytotoxic chemotherapy.
+There are no data suggesting that combination therapy results in an OS benefit over single-agent therapy.
+Patients with hormone receptor–negative tumors and those with visceral metastases or symptomatic disease are also candidates for cytotoxic agents.[92] Single agents that have shown activity in metastatic breast cancer include: Anthracyclines.Doxorubicin.Epirubicin.Liposomal doxorubicin.[93-96]Mitoxantrone.

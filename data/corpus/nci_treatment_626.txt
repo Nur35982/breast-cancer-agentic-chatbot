@@ -1,0 +1,7 @@
+However, an author would be permitted to write a sentence such as “NCI’s PDQ cancer information summary about breast cancer prevention states the risks succinctly: [include excerpt from the summary].” The preferred citation for this PDQ summary is: PDQ® Adult Treatment Editorial Board.
+PDQ Breast Cancer Treatment.
+Bethesda, MD: National Cancer Institute.
+Updated <MM/DD/YYYY>.
+Available at:https://www.cancer.gov/types/breast/hp/breast-treatment-pdq.
+Accessed <MM/DD/YYYY>.
+[PMID: 26389406] Images in this summary are used with permission of the author(s), artist, and/or publisher for use within the PDQ summaries only.

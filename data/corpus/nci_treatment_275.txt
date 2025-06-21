@@ -1,0 +1,4 @@
+Capecitabine therapy increased DFS when given after conventional adjuvant therapy.
+Evidence (capecitabine therapy for patients who have not been treated with preoperative systemic therapy): TheSYSUCC-001trial (NCT01112826) included 443 women (434 analyzed) with TNBC from 13 Chinese institutions.
+The women had received adjuvant chemotherapy and were randomly assigned to receive either no further therapy or capecitabine at a dose of 650 mg/m2twice daily for 1 year.
+The primary study end point was DFS.[109]After a median follow-up of 61 months, the 5-year DFS rate was 82.5% for patients who received capecitabine maintenance therapy compared with 73.0% for patients who received no further therapy (HR, 0.64; 95% CI, 0.42–0.95;P= .03).[109][Level of evidence B1]Forty-five percent of patients who received capecitabine developed hand-foot syndrome, which was grade 3 in 7.7% of patients.The rate of patients who completed 1 year of therapy was 82.8%.

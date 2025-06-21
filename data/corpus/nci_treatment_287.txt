@@ -1,0 +1,4 @@
+A subcutaneous (SQ) formulation of trastuzumab has also been approved.
+TheSafeHertrial (NCT01566721) evaluated the safety and tolerability of self-administered versus clinician-administered SQ trastuzumab in patients with stage I to stage III HER2-positive breast cancer.[118] Chemotherapy was administered concurrently or sequentially.
+A phase III (HannaH[NCT00950300]) trial also demonstrated that the pharmacokinetics and efficacy of preoperative SQ trastuzumab is noninferior to the IV formulation.
+This international open-label trial (n = 596) randomly assigned women with operable, locally advanced, or inflammatory HER2-positive breast cancer to undergo preoperative chemotherapy (anthracycline/taxane–based), with either SQ-administered or IV-administered trastuzumab every 3 weeks before surgery.

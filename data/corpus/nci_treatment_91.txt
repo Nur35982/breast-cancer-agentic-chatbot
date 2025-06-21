@@ -1,0 +1,3 @@
+Patients were scheduled to undergo breast-conserving surgery and whole-breast radiation therapy.
+Patients were randomly assigned in a 1:4 ratio to undergo no axillary surgery or SLN biopsy.
+The median follow-up was 6 years.[35][Level of evidence A1]The 5-year invasive DFS rate was 91.9% in the no-surgery group and 91.7% in the SLN biopsy group (HR, 0.91; 95% CI, 0.73–1.14), which was below the prespecified noninferiority margin.Patients in the no-surgery group had a lower incidence of lymphedema, greater arm mobility, and less pain with movement of the arm or shoulder than patients who underwent SLN biopsy.

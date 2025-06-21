@@ -1,0 +1,5 @@
+83.6%; HR, 0.680; 95% CI, 0.599–0.772;P< .001) and DRFS (5-year DRFS: 79.2% vs.
+86%; HR, 0.675; 95% CI, 0.588–0.774;P< .001).
+There were 208 deaths in the abemaciclib arm and 234 deaths in the endocrine therapy-alone arm.
+This difference was not statistically significant.[90][Level of evidence B1] Because of adverse events, abemaciclib dose adjustments occurred in 1,901 patients (68.1%); 56.9% of these patients had dose omissions and 41.2% had dose reductions.
+In the abemaciclib arm, 463 patients (16.6%) discontinued abemaciclib because of adverse events, 306 of whom remained on endocrine therapy.[89] Similar results were found in a prespecified subgroup analysis of patients who had received neoadjuvant chemotherapy and had residual disease after surgery.[91] TheNATALEEtrial (NCT03701334) evaluated adding ribociclib to standard adjuvant therapy in women and men with stage II to stage III HER2-negative hormone receptor–positive breast cancer.[92] A total of 5,101 patients were randomly assigned without blinding to receive either a nonsteroidal AI alone or in combination with ribociclib within 12 months of starting a nonsteroidal AI.

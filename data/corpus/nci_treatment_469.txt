@@ -1,0 +1,4 @@
+These patients previously received one or more lines of endocrine-based therapy and no previous chemotherapy for metastatic breast cancer.
+The trial randomly assigned 866 patients in a 1:1 ratio to receive either trastuzumab deruxtecan or the physician’s choice of chemotherapy.
+A total of 713 patients had HER2-low disease and 153 patients had HER2-ultralow disease.
+The primary end point was PFS.[55]In patients with HER2-low disease, the median PFS was 13.2 months (95% CI, 11.4–15.2) in the trastuzumab deruxtecan group and 8.1 months (95% CI, 7.0–9.0) in the chemotherapy group (HR, 0.62; 95% CI, 0.51–0.74;P< .001).[55][Level of evidence B1]Grade 3 or higher adverse events occurred in 52.8% of patients in the trastuzumab deruxtecan group and 44.4% of patients in the chemotherapy group.

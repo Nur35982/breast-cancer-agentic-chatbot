@@ -1,0 +1,3 @@
+Pertuzumab is a humanized monoclonal antibody that binds to a different epitope at the HER2 extracellular domain than does trastuzumab.
+The binding of pertuzumab to HER2 prevents dimerization with other ligand-activated HER receptors, most notably HER3.
+Evidence (pertuzumab): The phase IIICLEOPATRAtrial (NCT00567190) assessed the efficacy and safety of pertuzumab plus trastuzumab plus docetaxel versus placebo plus trastuzumab plus docetaxel, in the first-line HER2-positive metastatic setting.[70,71][Level of evidence A1]With a median follow-up of 50 months, the median OS was 40.8 months in the control group versus 56.5 months in the pertuzumab group (HR favoring pertuzumab group, 0.68; 95% CI, 0.56–0.84;P< .001).

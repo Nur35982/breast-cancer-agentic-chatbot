@@ -1,0 +1,5 @@
+For more information, see theChemotherapy for Metastatic Breast Cancersection.
+Sixty percent of HER2-negative metastatic breast cancers express low levels of HER2, defined as a score of 1+ on immunohistochemical (IHC) analysis or as an IHC score of 2+ and negative results onin situhybridization.
+These are referred to as HER2-low tumors.
+Historically, HER2-directed therapies have not improved outcomes in these patients.
+Early-phase trials of trastuzumab deruxtecan showed potential efficacy in this subgroup.[53] A subsequent randomized phase III trial showed OS benefit in this subgroup.[54] Trastuzumab deruxtecan is an antibody-drug conjugate consisting of a humanized anti-HER2 monoclonal antibody linked to a topoisomerase-I inhibitor payload through a cleavable linker.

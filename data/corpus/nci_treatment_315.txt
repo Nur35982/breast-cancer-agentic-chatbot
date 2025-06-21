@@ -1,0 +1,3 @@
+Evidence (neratinib): In theExteNETtrial (NCT00878709), the safety and efficacy of 12 months of adjuvant neratinib was investigated in patients with early-stage HER2-positive breast cancer (n = 2,840) who had completed neoadjuvant trastuzumab up to 2 years before randomization.
+Patients received 240 mg of oral neratinib daily for 1 year or a placebo.
+The primary end point was IDFS.[142][Level of evidence A1]After a median follow-up of 5.2 years (interquartile range, 2.1–5.3), patients in the neratinib group had significantly fewer IDFS events than those in the placebo group (neratinib group, 116 events vs.

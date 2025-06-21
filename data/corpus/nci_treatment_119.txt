@@ -1,0 +1,4 @@
+The APBI arm was associated with less short-term but more long-term toxicity.[15][Level of evidence B1] In patients treated with APBI, the 5-year cumulative rate of ipsilateral breast tumor recurrence was 2.3% (95% CI, 1.4%–3.2%) and the 8-year cumulative rate was 3.0% (95% CI, 1.9%–4.0%).
+In patients treated with whole-breast radiation therapy, the 5-year cumulative rate of ipsilateral breast tumor recurrence was 1.7% (range, 0.9%–2.5%) and the 8-year cumulative rate was 2.8% (range, 1.8%–3.9%).
+The hazard ratio (HR) for APBI versus whole-breast radiation therapy was 1.27 (90% CI, 0.84–1.91).
+Thus, the upper bound of the estimated 90% CI did not exceed the noninferiority margin of 2.02.

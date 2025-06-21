@@ -1,0 +1,5 @@
+Common toxicities associated with alpelisib included hyperglycemia, diarrhea, nausea, anorexia, and rash.
+Careful monitoring and management of hyperglycemia are required during alpelisib use.
+The FDA approved alpelisib for use in combination with fulvestrant in advancedPIK3CA-mutated, HER2-negative hormone receptor–positive breast cancer after previous endocrine therapy.
+Elacestrant is an oral selective ER degrader (SERD).
+It degrades ER alpha in a dose-dependent manner and inhibits estradiol-dependent ER-directed gene transcription and tumor growth, including in cells withESR1variants.ESR1variants result in estrogen-independent ER activation and, consequently, resistance to AIs, but not necessarily to SERDs and selective ER modulators.

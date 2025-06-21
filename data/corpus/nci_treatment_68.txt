@@ -1,0 +1,9 @@
+Lymph node status.
+Estrogen-receptor and progesterone-receptor levels in the tumor tissue.
+Human epidermal growth factor receptor 2 (HER2) status in the tumor.
+Tumor grade.
+Menopausal status.
+General health of the patient.
+The standards used to define biomarker status are described as follows: Estrogen receptor (ER) expression:ER expression is measured primarily by immunohistochemistry (IHC).
+Any staining of 1% of cells or more is considered positive for ER.[1] Progesterone receptor (PR) expression:PR expression is measured primarily by IHC.
+Any staining of 1% of cells or more is considered positive for PR.

@@ -1,0 +1,5 @@
+The rate of febrile neutropenia was 2.0% in the ribociclib group and 1.0% in the placebo group.
+An increase in QTcF interval of more than 60 milliseconds from baseline was observed in 10.0 % of patients in the ribociclib arm and 2.0% in the placebo arm.
+Sixty-millisecond increases were more common in patients receiving tamoxifen (16% on ribociclib and 7% on placebo).
+Abemaciclib, another CDK4/6 inhibitor, has also been tested in the first-line setting for postmenopausal patients with HER2-negative hormone receptor–positive, recurrent or metastatic breast cancer.
+Evidence (first-line abemaciclib and endocrine therapy): MONARCH 3(NCT02246621) was a randomized, double-blind, phase III trial that evaluated first-line abemaciclib or placebo plus a nonsteroidal AI in 493 postmenopausal women with HER2-negative hormone receptor–positive, advanced breast cancer.[19]The primary end point, investigator-assessed PFS, was met.

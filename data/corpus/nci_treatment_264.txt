@@ -1,0 +1,4 @@
+A difference in OS was also observed (HR, 0.68; 99% CI, 0.44–1.05;P= .02), but it did not meet the prespecified level of significance when corrected for multiple testing (P< .01).
+Grade 3 or higher adverse events that occurred in more than 1% of patients on the olaparib arm included anemia (8.7%), decreased neutrophil count (4.8%), decreased white cell count (3.0%), fatigue (1.8%), and lymphopenia (1.2%).
+No adverse events of grade 3 or higher occurred in more than 1% of the patients on the placebo arm.
+Patient-reported outcomes were assessed among the 1,538 patients who completed both a baseline questionnaire and at least one subsequent questionnaire.[102]Patients who received olaparib experienced statistically significant greater fatigue than patients who received placebo, but the differences did not meet the criteria for clinical significance.

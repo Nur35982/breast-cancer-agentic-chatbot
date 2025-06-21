@@ -1,0 +1,4 @@
+The most common grade 3 or 4 adverse events in the elacestrant arm were nausea (six patients, 2.5%), back pain (six patients, 2.5%), and increased alanine aminotransferase (five patients, 2.1%).
+The most common grade 3 or 4 adverse events in the standard-of-care arm were nausea, fatigue, diarrhea, and increased aspartate aminotransferase (each occurring in two patients, 0.9%).
+Adverse events led to treatment discontinuation in 15 patients (6.3%) in the elacestrant arm and 10 patients (4.4%) in the standard-of-care arm.
+PFS was prolonged in the elacestrant arm in all patients (HR, 0.70; 95% CI, 0.55–0.88;P= .002) and in elacestrant-treated patients withESR1variants (HR, 0.55; 95% CI, 0.39–0.77;P= .0005).

@@ -1,0 +1,5 @@
+This section outlines factors to consider when making this decision.
+Information about the treatment of locally advanced or inflammatory breast cancer is also included in this section.
+Preoperative chemotherapy, also known as primary or neoadjuvant chemotherapy, has traditionally been given to patients with locally advanced breast cancer to reduce tumor volume and allow for definitive surgery.
+Treatment with preoperative chemotherapy can also allow for breast conservation therapy in patients who are not candidates for breast conservation at initial presentation.
+Preoperative chemotherapy may also reduce the need for an axillary lymph node dissection (ALND) in patients presenting with node-positive disease.

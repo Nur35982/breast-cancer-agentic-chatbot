@@ -1,0 +1,4 @@
+The median PFS for these treatment groups was 13.7 months for the trastuzumab-plus-taxane group, 14.1 months for the T-DM1-plus-placebo group, and 15.2 months for the T-DM1-plus-pertuzumab group.
+There was no significant difference in PFS with T-DM1 plus placebo compared with trastuzumab plus taxane (HR, 0.91; 97.5% CI, 0.73–1.13), or with T-DM1 plus pertuzumab compared with trastuzumab plus taxane (HR, 0.87; 97.5% CI, 0.69–1.08).
+Therefore, neither T-DM1 plus placebo nor T-DM1 plus pertuzumab showed PFS superiority over trastuzumab plus taxane.
+Trastuzumab deruxtecan is an antibody-drug conjugate that combines trastuzumab with a topoisomerase inhibitor.

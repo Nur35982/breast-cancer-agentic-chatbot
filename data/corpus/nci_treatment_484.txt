@@ -1,0 +1,5 @@
+Results in the ITT population were consistent with the PD-L1–positive population.
+The safety profile was consistent with known effects of each study drug.
+Sacituzumab govitecan is an antibody-drug conjugate that combines an a TROP2 antibody with an active metabolite of irinotecan (SN-38).
+TROP2 is a transmembrane calcium signal transducer highly expressed in TNBC.
+Internalization of TROP2–bound sacituzumab govitecan delivers SN-38 into the tumor cell through hydrolysis of the linker.[51] Evidence (sacituzumab govitecan): In a phase I/II trial, 108 women with TNBC who received at least two previous chemotherapy regimens (median, three) were treated with sacituzumab govitecan at a dose of 10 mg/kg intravenously on days 1 and 8 of a 21-day cycle.[61][Level of evidence C3]A response rate of 33.3% (95% CI, 24.6%–43.1%) was observed.The median duration of response was 7.7 months (95% CI, 4.9–10.8).The main toxicity was neutropenia, and four deaths occurred during treatment.[61][Level of evidence C3]The FDA granted accelerated approval to sacituzumab govitecan for patients with metastatic TNBC after at least two previous lines of therapy.

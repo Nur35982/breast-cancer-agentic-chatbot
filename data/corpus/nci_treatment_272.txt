@@ -1,0 +1,4 @@
+A pCR was observed in 64.8% of patients in the pembrolizumab arm and 51.2% of patients in the placebo arm (estimated treatment difference, 13.6%; 95% CI, 5.4%−21.8%;P< .001).
+Approximately 80% of tumors were positive for programmed death-ligand 1 (PD-L1), but the benefits of pembrolizumab regarding pCR were observed regardless of PD-L1 status.
+At the time of the fourth interim analysis, when the median follow-up was 39 months, an improved EFS was observed in patients who received pembrolizumab.
+The 36-month EFS rate was 84.5% for patients who received pembrolizumab and 76.8% for patients who received placebo.

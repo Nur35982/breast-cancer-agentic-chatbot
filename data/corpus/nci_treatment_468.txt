@@ -1,0 +1,4 @@
+Among all patients, the median PFS was 9.9 months in the trastuzumab deruxtecan group and 5.1 months in the physician’s choice group (HRdisease progression or death, 0.50;P< .001).
+The OS was 23.4 months in the trastuzumab deruxtecan group and 16.8 months in the physician's choice group (HRdeath, 0.64;P= .001).
+Drug-related interstitial lung disease or pneumonitis occurred in 12.1% of the patients who received trastuzumab deruxtecan; 0.8% had grade 5 events.
+The phase III, randomized, open-labelDESTINY-Breast06trial (NCT04494425) included patients with ER-positive metastatic breast cancer with low HER2 expression (with a score of 1+ or 2+ on IHC analysis and negative results onin situhybridization) or ultralow HER2 expression (with a score of 0 on IHC analysis with membrane staining).

@@ -1,0 +1,6 @@
+4.5%) and liver-related events (25.4% vs.
+10.6%) were more common in the ribociclib-plus-nonsteroidal AI group than the nonsteroidal AI-alone group.
+A total of 477 patients discontinued ribociclib, and 554 patients had dose reductions.
+There were no treatment-related deaths.
+At the time of the second planned interim analysis, when the median duration of follow-up was 28 months, there was a significant difference in IDFS favoring the ribociclib arm (3-year IDFS, 90.4% for ribociclib plus nonsteroidal AI vs 87.1% for nonsteroidal AI alone) (HR, 0.75; 95% CI, 0.62–0.91;P= .003).
+This P-value exceeded the prespecified cutoff of .0256.[92][Level of evidence B1] The exploratory end points of distant DFS, RFS, DRFS, and OS favored the ribociclib arm, but the differences were not formally tested for significance in this analysis.

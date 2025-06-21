@@ -1,0 +1,4 @@
+Evidence (elacestrant): A randomized, open-label, phase III trial (EMERALD[NCT03778931]) enrolled patients with ER-positive HER2-negative metastatic breast cancer.
+Eligible patients had previously received one or two lines of endocrine therapy, a CDK4/6 inhibitor, and no more than one line of chemotherapy.
+A total of 477 patients were randomly assigned in a 1:1 ratio to receive either elacestrant 400 mg orally once daily or standard-of-care endocrine monotherapy.
+Primary end points were PFS by blinded independent central review in all patients and in patients with detectableESR1variants.ESR1variants were found in 47.8% of patients, and 43.4% of patients had received two prior endocrine therapies.

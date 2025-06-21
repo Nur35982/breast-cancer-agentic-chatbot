@@ -1,0 +1,10 @@
+In the node-negative population, the designated risk groups are as follows: Recurrence score ≤11: low risk.
+Chemotherapy is not indicated for this group.
+Recurrence score >11 and ≤25: intermediate risk.
+Chemotherapy decision-making is complex and personalized for this group.
+Patient age ( ≤50 vs.
+>50 years), clinicopathological features, patient preference, and more are incorporated into this decision.
+Recurrence score >25: high risk.
+Chemotherapy is indicated for this group.
+In the postmenopausal node-positive population, the designated risk groups are as follows: Recurrence score ≤25: low risk.
+Chemotherapy is not indicated for this group.

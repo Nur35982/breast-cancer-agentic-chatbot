@@ -1,0 +1,4 @@
+LVEF decline was observed in 3.1% of the patients who received monotherapy (95% CI, 2.2%–4.4%) and 2.9% of the patients who received dual therapy (95% CI, 2.1%–4.1%).
+Symptomatic heart failure was observed in 0.88% of the patients who received monotherapy (95% CI, 0.47%–1.64%) and 1.49% of the patients who received dual therapy (95% CI, 0.98%–2.23%).
+Tamoxifen Long-term follow-up of theATLAStrial (NCT00003016) included toxicity data.
+Compared with 5 years, 10 years of tamoxifen therapy increased the risk of the following:[16]Pulmonary embolus: relative risk (RR), 1.87 (95% CI, 1.13–3.07;P= .01).Stroke: RR, 1.06 (95% CI, 0.83–1.36).Ischemic heart disease: RR, 0.76 (95% CI, 0.6–0.95;P= .02).Endometrial cancer: RR, 1.74 (95% CI, 1.30–2.34;P= .0002).

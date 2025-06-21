@@ -1,0 +1,3 @@
+For patients receiving TCH, the 5-year DFS rate was 81% (HR, 0.75;P= .04), and the OS rate was 91% (HR, 0.77;P= .04).
+The control group had a 5-year DFS rate of 75% and an OS rate of 87%.The authors stated that there was no significant difference in DFS or OS between the two trastuzumab-containing regimens.
+However, the study was not powered to detect equivalence between the two trastuzumab-containing regimens.The rates of congestive heart failure and cardiac dysfunction were significantly higher in the group receiving AC-T plus trastuzumab than in the TCH group (P< .001).These trial findings raise the question of whether anthracyclines are needed for the adjuvant treatment of HER2-overexpressing breast cancer.

@@ -1,0 +1,5 @@
+For more information, see theChemotherapy for Metastatic Breast Cancersection.
+To date, immunotherapy monotherapy has not demonstrated an OS benefit for patients with metastatic TNBC.
+Evidence (pembrolizumab): KEYNOTE-119(NCT02555657) was a phase III, randomized, open-label, multicenter, international trial that enrolled patients with metastatic TNBC.
+Patients had received one or two previous systemic treatments for metastatic disease and had previous treatment with an anthracycline or taxane.
+The trial randomly assigned 622 patients to receive intravenous pembrolizumab 200 mg once every 3 weeks for 35 cycles (pembrolizumab group), or to the investigator's choice of single-drug chemotherapy (capecitabine, eribulin, gemcitabine, or vinorelbine).

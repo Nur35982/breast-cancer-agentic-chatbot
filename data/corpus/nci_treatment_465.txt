@@ -1,0 +1,4 @@
+This agent offers bystander effect to surrounding HER2-low cells via uptake into HER2-amplified cells, intracellular cleavage of payload, and release of payload into the surrounding tumor.
+Evidence (trastuzumab deruxtecan for HER2-low hormone receptor–positive and hormone receptor–negative tumors): TheDESTINY-Breast04trial (NCT03734029) randomly assigned 557 women in a 2:1 ratio to receive either trastuzumab deruxtecan or the physician’s choice of chemotherapy (capecitabine, eribulin, gemcitabine, paclitaxel, or nab-paclitaxel).
+Patients had received one or two prior lines of chemotherapy.
+The primary end point was PFS in the hormone receptor–positive group (88.7% of patients).

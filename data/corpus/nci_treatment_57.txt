@@ -1,0 +1,3 @@
+Lancet 364 (9437): 858-68, 2004.[PUBMED Abstract] Paik S, Shak S, Tang G, et al.: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer.
+N Engl J Med 351 (27): 2817-26, 2004.[PUBMED Abstract] Habel LA, Shak S, Jacobs MK, et al.: A population-based study of tumor gene expression and risk of breast cancer death among lymph node-negative patients.
+Breast Cancer Res 8 (3): R25, 2006.[PUBMED Abstract] Mamounas EP, Tang G, Fisher B, et al.: Association between the 21-gene recurrence score assay and risk of locoregional recurrence in node-negative, estrogen receptor-positive breast cancer: results from NSABP B-14 and NSABP B-20.

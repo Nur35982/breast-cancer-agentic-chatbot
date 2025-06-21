@@ -1,0 +1,6 @@
+(HR, 0.63; 95% CI, 0.48–0.82;P< .001).[107][Level of evidence B1] EFS data are immature.
+Grade 3 or higher adverse events occurred in 76.8% of participants in the pembrolizumab arm and 72.2% of participants in the placebo arm.
+Serious treatment-related adverse events occurred in 32.5% of participants in the pembrolizumab arm and 19.5% of participants in the placebo arm.
+Grade 3 or higher skin rashes, infusion reactions, and adrenal insufficiency were more frequent in the pembrolizumab arm.
+For patients who undergo surgery first, combination chemotherapy is typically given in the adjuvant setting.
+While there is no established standard therapy in this setting, the following trial provides evidence that a non–anthracycline-based regimen may be suitable: Evidence (adjuvant non–anthracycline-containing regimens): ThePATTERNtrial (NCT01216111) compared an anthracycline-based regimen (cyclophosphamide, 5-FU, epirubicin, and docetaxel [CEF-T]) with paclitaxel and carboplatin (PCb) in 647 Chinese women with TNBC who had completed definitive surgery.

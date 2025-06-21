@@ -1,0 +1,7 @@
+Patients had metastatic solid malignancies, treated with at least one previous line of therapy.
+Participants received pembrolizumab 200 mg intravenously every 3 weeks for up to 35 cycles.
+TMB was assessed in formalin-fixed paraffin-embedded tumor samples using the FoundationOne CDx assay.
+A total of 105 of 805 evaluable patients had high TMB (≥10 Mut/Mb).
+The primary outcome was objective response rate.
+Objective responses were observed in 30 of 102 patients (29%) in the TMB-high group and 43 of 688 patients (6%) in the non-TMB-high group.
+Grade 3 to 5 treatment-related adverse events occurred in 16 patients.

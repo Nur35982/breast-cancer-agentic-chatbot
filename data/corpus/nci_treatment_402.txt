@@ -1,0 +1,6 @@
+All patients with metastatic breast cancer are considered candidates for ongoing clinical trials.
+CDK4 and CDK6 have been implicated in the continued proliferation of hormone receptor–positive breast cancer resistant to endocrine therapy.
+CDK inhibitors have been approved by the U.S.
+Food and Drug Administration (FDA) in combination with endocrine therapy in both first-line and later-line treatment of advanced, HER2-negative hormone receptor–positive breast cancer.
+Three oral CDK4/6 inhibitors are currently available: palbociclib, ribociclib, and abemaciclib.
+Overall, the addition of CDK4/6 inhibitors to endocrine therapy is associated with improved breast cancer outcomes and, in general, either maintained or improved quality of life.[3-8] This benefit was observed across multiple clinicopathological subgroups of breast cancer.[9] Evidence (first-line palbociclib and endocrine therapy): PALOMA-2(NCT01740427) confirmed the results of the phase II PALOMA-1 trial.[10] This phase III, double-blind trial compared placebo plus letrozole with palbociclib plus letrozole as initial therapy for ER-positive postmenopausal patients with advanced disease (n = 666).

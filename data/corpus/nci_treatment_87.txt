@@ -1,0 +1,4 @@
+In a similarly designed trial (IBCSG 23-01), 929 women with breast tumors smaller than 5 cm and SLN involvement smaller than 2 mm were randomly assigned to ALND or no ALND.[32][Level of evidence A1]Patients without axillary dissection had fewer DFS events (hazard ratio [HR], 0.78; 95% CI, 0.55–1.11).No difference in OS was observed.
+Patients without axillary dissection had fewer DFS events (hazard ratio [HR], 0.78; 95% CI, 0.55–1.11).
+No difference in OS was observed.
+TheAMAROStrial (NCT00014612) studied ALND and axillary radiation therapy after identification of a positive SLN.[33][Level of evidence A1]ALND and axillary radiation therapy provided excellent and comparable axillary control for patients with T1 or T2 primary breast cancer and no palpable lymphadenopathy who underwent breast-conserving therapy or mastectomy.The use of axillary radiation therapy was also associated with significantly less morbidity.

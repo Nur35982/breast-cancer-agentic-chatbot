@@ -1,0 +1,4 @@
+The primary end point (investigator-assessed PFS) was met.
+At the time of final analysis for PFS, the median PFS for the ribociclib group was 20.5 months versus 12.8 months in the placebo group (HR, 0.593; 95% CI, 0.480–0.732;P< .001).[15][Level of evidence B1] OS was superior in the ribociclib group (HR, 0.724; 95% CI, 0.568–0.924;P= .004).
+The result crossed the prespecified stopping boundary (P= .011) for superior efficacy.
+Results were similar in all subgroups.[16][Level of evidence A1] Adverse events were similar to those in other studies of CDK4/6 inhibitors.Grade 3 to 4 neutropenia occurred in 53.4% of patients in the ribociclib group and 0.0% of patients in the placebo group.The rate of febrile neutropenia was 1.0% in the ribociclib group and 0% in the placebo group.An increase in QTcF interval of more than 60 milliseconds from baseline was observed in 6.5% of patients in the ribociclib arm and 0.4% in the placebo arm.

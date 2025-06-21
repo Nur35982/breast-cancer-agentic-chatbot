@@ -1,0 +1,6 @@
+Similar results were found in a prespecified subgroup analysis of patients who had received neoadjuvant chemotherapy and had residual disease after surgery (cited Martin et al.
+as reference 91).
+AddedImmunotherapyas a new subsection in the Postoperative therapy for triple-negative breast cancer section.
+Revisedtextabout the results of a single-arm trial that evaluated paclitaxel and trastuzumab in 410 women with node-negative, small, HER2-positive tumors (cited Tolaney et al.
+as reference 145).
+Treatment of Metastatic Breast Cancer Revisedtextabout the results of a randomized, double-blind, phase III trial that evaluated first-line abemaciclib or placebo plus a nonsteroidal aromatase inhibitor in 493 postmenopausal women with HER2-negative hormone receptor–positive, advanced breast cancer (cited Goetz et al.

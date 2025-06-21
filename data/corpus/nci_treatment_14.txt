@@ -1,0 +1,5 @@
+Recurrence score >25: high risk.
+Chemotherapy is indicated for this group.
+BCI:The BCI is a combination of two profiles, theHOXB13/IL17BRexpression ratio (H/I ratio) and the Molecular Grade Index.
+It has been both prognostic and predictive in patients with hormone receptor–positive breast cancer.
+The following trials describe the prognostic and predictive value of multigene assays in early breast cancer: The prognostic ability of the Oncotype DX 21-gene assay was assessed in two randomized trials.The National Surgical Adjuvant Breast and Bowel Project (NSABP B-14) trial randomly assigned patients to receive tamoxifen or placebo; the results favoring tamoxifen changed clinical practice in the late 1980s.[72] Formalin-fixed, paraffin-embedded tissue was available for 668 patients.

@@ -1,0 +1,4 @@
+Evidence (omission of SLN biopsy): TheSOUNDtrial (NCT02167490), a multicenter, noninferiority, randomized clinical trial, evaluated omitting SLN biopsy in women with invasive breast cancer.
+Patients were of any age, had tumors smaller than 2 cm, had negative preoperative axillary ultrasonography, and planned to receive breast-conserving surgery and adjuvant radiation therapy.
+A total of 1,493 women were randomly assigned to undergo SLN biopsy or no axillary surgery.
+The median follow-up was 5.7 years.[34][Level of evidence A1]The 5-year distant DFS rate was 97.7% in the SLN biopsy group and 98.0% in the no-surgery group (log-rankP= .67; HR, 0.84; 90% CI, 0.45–1.54; noninferiorityP= .02).A total of 12 locoregional relapses (1.7%), 13 distant metastases (1.8%), and 21 deaths (3.0%) were observed in the SLN biopsy group, compared with 11 locoregional relapses (1.6%), 14 distant metastases (2.0%), and 18 deaths (2.6%) in the no-surgery group.

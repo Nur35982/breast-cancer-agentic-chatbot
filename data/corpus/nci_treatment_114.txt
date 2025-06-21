@@ -1,0 +1,5 @@
+Two large trials found that radiation can be safely omitted without survival deficit, but with an increased risk of local recurrence of about 8% at 10 years, assuming that hormonal therapy is used.
+CALGB 9343 was a phase III randomized trial of radiation omission.
+A total of 636 women were enrolled; 317 women received tamoxifen plus radiation therapy, and 319 women received tamoxifen alone.
+Eligible women were aged 70 years or older and had clinical stage I estrogen receptor (ER)-positive breast cancer.
+Initial eligibility criteria included breast cancers measuring up to 4 cm regardless of ER status, but in August 1996 this was reduced to measuring up to 2 cm (T1) with ER-positive or indeterminate receptor status.

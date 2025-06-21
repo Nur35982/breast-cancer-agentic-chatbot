@@ -1,0 +1,4 @@
+The following section describes studies that examined the use of chemotherapy in the preoperative setting.
+Early trials examined whether anthracycline-based regimens used in the adjuvant setting would prolong DFS and OS when used in the preoperative setting.
+The evidence supports higher rates of breast-conserving therapy with the use of a preoperative anthracycline chemotherapy regimen than with postoperative use, but no improvement in survival was noted with the preoperative strategy.
+Typically, an anthracycline-and-taxane–based regimen is used if chemotherapy is administered in the neoadjuvant setting for patients with HER2-negative breast cancer.

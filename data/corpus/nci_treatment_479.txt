@@ -1,0 +1,4 @@
+Participants were stratified according to the presence of liver metastases (yes/no), receipt of previous taxane therapy (yes/no), and PD-L1 status (positive or negative).
+PD-L1 expression of 1% or greater was defined as positive.
+Co-primary end points included PFS and OS, both of which were evaluated in the ITT population and in the PD-L1–positive population (n = 369).
+Based on the initial publication of PFS data from IMPassion130, the FDA granted accelerated approval for the use of atezolizumab in combination with protein-bound paclitaxel for patients with unresectable locally advanced or metastatic TNBC whose tumors express PD-L1.

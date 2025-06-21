@@ -1,0 +1,4 @@
+For more information, see theToxicity of Adjuvant Chemotherapysection.
+Data are inconsistent regarding whether an anthracycline-containing regimen is more efficacious than a non–anthracycline-containing regimen.
+Both types of regimens are acceptable, and the choice must be individualized on the basis of risk and other patient characteristics.
+Evidence (non–anthracycline-containing regimens): The ABC trials were three open-label, randomized, phase III trials comparing TC (taxane and cyclophosphamide) with regimens containing an anthracycline/cyclophosphamide plus a taxane (TaxAC) for the adjuvant treatment of patients with HER2-negative early-stage breast cancer.[33] The three trials were analyzed together with a primary end point of invasive disease-free survival (IDFS).

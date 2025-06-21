@@ -1,0 +1,3 @@
+Online) might guide more appropriate choices of chemotherapy in women with node negative- or 1-to-3 node-positive disease.[81][Level of evidence C2] Unlike the TAILORx study, which only had hormone receptor–positive patients, this trial included hormone receptor–negative patients.
+In this prospective study, women with both genomic and clinical high-risk classification received chemotherapy, while those with both genomic and clinical low-risk classification did not receive chemotherapy.
+Participants with discordant results (clinical high-risk- with genomic low-risk classification, or clinical low-risk- with genomic high-risk classification) were randomly assigned to receive or not receive chemotherapy.

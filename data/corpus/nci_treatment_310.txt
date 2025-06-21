@@ -1,0 +1,5 @@
+Pertuzumab is a humanized monoclonal antibody that binds to a distinct epitope on the extracellular domain of the HER2 receptor and inhibits dimerization.
+Its use, in combination with trastuzumab, has been evaluated in a randomized trial in the postoperative setting.
+Evidence (pertuzumab): The Breast Intergroup (BIG) trial enrolled 4,805 women with HER2-positive cancer in a blinded comparison study.
+Patients received 12 months of trastuzumab plus placebo versus 12 months of trastuzumab plus pertuzumab, which were given in conjunction with standard chemotherapy and hormone therapy.
+The primary end point was IDFS.[125]At the time of the final analysis, the 3-year IDFS rate was 94.1% in the trastuzumab-pertuzumab group and 93.2% in the trastuzumab-placebo group (HR, 0.81; 95% CI, 0.66–1.00;P= .045).There was no statistically significant difference in OS (a secondary end point) at the first interim analysis.

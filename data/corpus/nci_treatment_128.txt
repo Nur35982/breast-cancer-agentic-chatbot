@@ -1,0 +1,5 @@
+Lymphovascular space invasion.
+Large primary tumors.
+Very close or positive deep margins of resection of the primary tumor.
+In this high-risk group, radiation therapy can decrease locoregional recurrence, even among patients who receive adjuvant chemotherapy.[24] Patients with one to three involved nodes without any of the high-risk factors may be at a lower risk of local recurrence, and the value of routine use of adjuvant radiation therapy in this setting is an area of controversy.
+Evidence (postoperative radiation therapy in patients with one to three involved lymph nodes): The 2005 EBCTCG meta-analysis of 42,000 women in 78 randomized treatment comparisons indicated that radiation therapy is beneficial, regardless of the number of lymph nodes involved.[1][Level of evidence A1]For women with node-positive disease postmastectomy and axillary clearance (removal of axillary lymph nodes and surrounding fat), radiation therapy reduced the 5-year local recurrence risk from 23% to 6% (absolute gain, 17%; 95% CI, 15.2%–18.8%).

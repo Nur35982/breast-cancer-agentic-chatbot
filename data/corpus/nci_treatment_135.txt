@@ -1,0 +1,4 @@
+Chemotherapy first (n = 122), consisting of cyclophosphamide, methotrexate, fluorouracil (5-FU), and prednisone plus doxorubicin repeated every 21 days for four cycles, followed by breast radiation.
+Breast radiation first (n = 122), followed by the same chemotherapy.
+The following results were observed: With a median follow-up of 5 years, OS was 73% for the radiation-first group and 81% for the chemotherapy-first group (P= .11).
+The 5-year crude rate of first recurrence by site was 5% in the radiation-first group and 14% in the chemotherapy-first group for local recurrence and 32% in the radiation-first group and 20% in the chemotherapy-first group for distant or regional recurrence or both.

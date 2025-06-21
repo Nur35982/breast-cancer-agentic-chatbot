@@ -1,0 +1,7 @@
+HER2 receptor status testing.
+Gene profile testing by microarray assay or reverse transcription-polymerase chain reaction (e.g., MammaPrint, Oncotype DX, Breast Cancer Index [BCI]).
+On the basis of ER, PR, and HER2 results, breast cancer is classified as one of the following types: Hormone receptor positive.
+HER2 positive.
+Triple negative (ER, PR, and HER2 negative).
+ER, PR, and HER2 status are important in determining prognosis and in predicting response to endocrine and HER2-directed therapy.
+The American Society of Clinical Oncology/College of American Pathologists consensus panel has published guidelines to help standardize the performance, interpretation, and reporting of assays used to assess the ER-PR status by immunohistochemistry and HER2 status by immunohistochemistry andin situhybridization.[65,66] Gene profile tests include: MammaPrint:The first gene profile test to be approved by the U.S.

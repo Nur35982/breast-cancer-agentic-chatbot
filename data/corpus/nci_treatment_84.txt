@@ -1,0 +1,5 @@
+The OS rate was 91.8% for SLN plus ALND versus 90.3% for SLN resection alone (P= .12).
+The study showed no detectable difference in overall survival (OS), disease-free survival (DFS), and regional control.
+The OS rate was 91.8% for SLN plus ALND versus 90.3% for SLN resection alone (P= .12).
+Because of the following trial results, ALND is unnecessary after a positive SLN biopsy in patients with limited SLN-positive breast cancer treated with breast conservation or mastectomy, radiation therapy, and systemic therapy.
+Evidence (ALND after a positive SLN biopsy in patients with limited SLN-positive breast cancer): ACOSOG Z0011(Alliance, NCT00003855), a phase III, noninferiority, multicenter, randomized clinical trial, evaluated whether ALND is required after a positive SLN biopsy.

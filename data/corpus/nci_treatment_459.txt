@@ -1,0 +1,3 @@
+TROP2 is a transmembrane calcium signal transducer highly expressed in HER2-negative ER-positive breast cancer.
+Internalization of TROP2–bound sacituzumab govitecan delivers SN-38 into the tumor cell through hydrolysis of the linker.[51] Evidence (sacituzumab govitecan): The global phase IIITROPiCS-02trial (NCT03901339) randomly assigned 543 patients to receive either sacituzumab govitecan or physician’s choice chemotherapy (eribulin, vinorelbine, capecitabine, or gemcitabine).
+Patients had locally recurrent inoperable or metastatic breast cancer that was endocrine-resistant, chemotherapy-treated, hormone receptor–positive, and HER2-negative.

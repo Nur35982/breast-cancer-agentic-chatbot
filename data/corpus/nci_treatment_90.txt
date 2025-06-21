@@ -1,0 +1,4 @@
+The 5-year distant DFS rate was 97.7% in the SLN biopsy group and 98.0% in the no-surgery group (log-rankP= .67; HR, 0.84; 90% CI, 0.45–1.54; noninferiorityP= .02).
+A total of 12 locoregional relapses (1.7%), 13 distant metastases (1.8%), and 21 deaths (3.0%) were observed in the SLN biopsy group, compared with 11 locoregional relapses (1.6%), 14 distant metastases (2.0%), and 18 deaths (2.6%) in the no-surgery group.
+The multicenter, noninferiority, randomizedINSEMAtrial (NCT02466737) evaluated omitting SLN biopsy in 5,502 women with clinically node-negative invasive breast cancer.
+Tumors had to be smaller than 5 cm, and most patients had T1 disease and ER-positive tumors.

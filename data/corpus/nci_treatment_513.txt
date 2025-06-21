@@ -1,0 +1,4 @@
+Neratinib is an irreversible pan-HER TKI (HER1, HER2, and HER4), which is approved in combination with capecitabine for the treatment of patients with advanced or metastatic HER2-positive breast cancer after two or more prior anti–HER2-based regimens in the metastatic setting.
+Evidence (neratinib): In the phase IIINALAtrial (NCT01808573), neratinib and capecitabine were compared with lapatinib and capecitabine in 621 patients with HER2-positive metastatic breast cancer who received two or more HER2-directed regimens in the metastatic setting.
+PFS and OS were co-primary end points.
+Secondary end points were time to intervention for metastatic central nervous system (CNS) disease and duration of response.

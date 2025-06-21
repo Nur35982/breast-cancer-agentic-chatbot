@@ -1,0 +1,4 @@
+A total of 94.1% of patients who received trastuzumab deruxtecan were alive at 12 months, compared with 85.9% of patients who received trastuzumab emtansine (HRdeath, 0.55; 95% CI, 0.36–0.86).
+The overall response rate was 79.7% versus 34.2%, favoring trastuzumab deruxtecan.
+Grade 3 to 4 drug-related adverse events occurred in 45.1% of patients who received trastuzumab deruxtecan and 38.9% of patients who received trastuzumab emtansine.
+Interstitial lung disease and pneumonitis occurred in 10.5% of patients who received trastuzumab deruxtecan and 1.9% of patients who received trastuzumab emtansine; none of these events were grade 4 to 5.This trial led to a change in the standard of care for patients with HER2-positive metastatic breast cancer, such that patients with prior taxane/trastuzumab therapy proceed to trastuzumab deruxtecan, rather than trastuzumab emtansine, for second-line therapy.

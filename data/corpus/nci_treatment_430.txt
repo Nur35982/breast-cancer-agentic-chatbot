@@ -1,0 +1,4 @@
+MONARCH 1 was a single-arm phase II study of single-agent abemaciclib in 132 women with HER2-negative hormone receptor–positive, advanced breast cancer that had progressed on at least one line of previous endocrine therapy and at least two lines of previous chemotherapy.
+The study population was heavily pretreated, and most participants had visceral disease.
+Patients who had previous CDK inhibitors were excluded.
+The primary end point was investigator-assessed objective response rate.The objective response rate was 19.7% at 12 months (95% CI, 13.3%–27.5%).The clinical benefit rate was 42.4%.Median PFS was 6.0 months (95% CI, 4.2–7.5).The most common adverse event was diarrhea, which occurred in 90.2% of the participants.

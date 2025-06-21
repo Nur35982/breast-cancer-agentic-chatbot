@@ -1,0 +1,5 @@
+Food and Drug Administration (FDA) has supported use of pCR as an end point in preoperative clinical trials for patients with high-risk, early-stage breast cancer.
+Unfortunately, categorizing patients as having pCR or residual disease offers no distinction among patients with varied amounts of residual disease.
+The residual cancer burden (RCB) method was designed to address this and other prognostic deficits.
+The RCB method provides a standard to evaluate and quantify the extent of residual disease in breast and axillary lymph nodes following neoadjuvant chemotherapy.
+It is reported as a continuous score, with pCR being scored as RCB-0.

@@ -1,0 +1,3 @@
+Pharmacogenomics 22 (3): 145-155, 2021.[PUBMED Abstract] Amstutz U, Henricks LM, Offer SM, et al.: Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update.
+Clin Pharmacol Ther 103 (2): 210-216, 2018.[PUBMED Abstract] Henricks LM, Lunenburg CATC, de Man FM, et al.: DPYD genotype-guided dose individualisation of fluoropyrimidine therapy in patients with cancer: a prospective safety analysis.
+Lancet Oncol 19 (11): 1459-1467, 2018.[PUBMED Abstract] Lau-Min KS, Varughese LA, Nelson MN, et al.: Preemptive pharmacogenetic testing to guide chemotherapy dosing in patients with gastrointestinal malignancies: a qualitative study of barriers to implementation.
